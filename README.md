@@ -3,7 +3,7 @@
 A simple Weather App that provides real-time weather updates for any city. It fetches data from the OpenWeather API and displays essential weather details, including temperature, humidity, wind speed, and sunrise/sunset times. 
 
 ## 🚀 Live Demo
-[🔗 Click here to view the live demo]( https://glathika.github.io/Weather_App/) *(Replace with your actual deployment link)*
+[🔗 Click here to view the live demo](  https://glathika.github.io/Weather_App/) *(Replace with your actual deployment link)*
 
 ## ✨ Features
 ✅ Get real-time weather updates for any city 🌍
