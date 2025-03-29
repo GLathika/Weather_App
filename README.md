@@ -5,6 +5,11 @@ A simple Weather App that provides real-time weather updates for any city. It fe
 ## 🚀 Live Demo
 [🔗 Click here to view the live demo](  https://glathika.github.io/Weather_App/) *(Replace with your actual deployment link)*
 
+## UI PREVIEW 
+ ![Uploading image.png…]()
+
+##
+
 ## ✨ Features
 ✅ Get real-time weather updates for any city 🌍
 ✅ Display temperature 🌡️, humidity 💧, wind speed 🌬️, and pressure ⚖️
