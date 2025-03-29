@@ -5,10 +5,12 @@ A simple Weather App that provides real-time weather updates for any city. It fe
 ## 🚀 Live Demo
 [🔗 Click here to view the live demo](  https://glathika.github.io/Weather_App/) *(Replace with your actual deployment link)*
 
-## UI PREVIEW 
- ![Uploading image.png…]()
+UI PREVIEW 
+![image](https://github.com/user-attachments/assets/8cb12f03-8281-480e-a241-41357b678d5f)
 
-##
+
+
+
 
 ## ✨ Features
 ✅ Get real-time weather updates for any city 🌍
